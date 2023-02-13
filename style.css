@@ -1,0 +1,16 @@
+*{
+    padding : 0;
+    margin: 0;
+
+}body{
+    padding: 20px;
+
+}
+.item{
+    background-color: gold;
+    border: 1px solid grey;
+    height: 50px;
+}
+.container{
+    display: grid;
+}
